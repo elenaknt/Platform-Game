@@ -1,0 +1,21 @@
+﻿  Main.cpp
+C:\Users\Elena\Desktop\Πανεπιστήμιο\3ο εξάμηνο\C++\Ergasia\Ergasia\GameObject.h(20,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Elena\Desktop\Πανεπιστήμιο\3ο εξάμηνο\C++\Ergasia\Ergasia\GameObject.h(20,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Elena\Desktop\Πανεπιστήμιο\3ο εξάμηνο\C++\Ergasia\Ergasia\GameObject.h(20,11): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Elena\Desktop\Πανεπιστήμιο\3ο εξάμηνο\C++\Ergasia\Ergasia\GameObject.h(20,8): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Elena\Desktop\Πανεπιστήμιο\3ο εξάμηνο\C++\Ergasia\Ergasia\Enemy.h(39,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Elena\Desktop\Πανεπιστήμιο\3ο εξάμηνο\C++\Ergasia\Ergasia\Enemy.h(40,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Elena\Desktop\Πανεπιστήμιο\3ο εξάμηνο\C++\Ergasia\Ergasia\Main.cpp(22,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project1.vcxproj -> C:\Users\Elena\Desktop\Πανεπιστήμιο\3ο εξάμηνο\C++\Ergasia\Ergasia\x64\Debug\Project1.exe
